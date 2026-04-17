@@ -13,7 +13,7 @@ export function PageFour() {
         <div className="container-done">
             <div className="text-box-done">
                 <div className="header-done">
-                    <h1>O que eu já fiz1</h1>
+                    <h1>O que eu já fiz</h1>
                 </div>
                 <div className="content-done">
                     <div className="front">
