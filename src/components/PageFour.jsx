@@ -13,7 +13,7 @@ export function PageFour() {
         <div className="container-done">
             <div className="text-box-done">
                 <div className="header-done">
-                    <h1>O que eu já fiz</h1>
+                    <h1>O que eu já fiz1</h1>
                 </div>
                 <div className="content-done">
                     <div className="front">
@@ -23,12 +23,12 @@ export function PageFour() {
                                 <ul>
                                     <li>
                                         <a href={Arquivo} target="_blank" rel="noopener noreferrer">
-                                        Calculadora com temas light e dark
+                                        Calculadora com temas claro e escuro
                                         </a>
                                     </li>
                                     <li>
                                         <a href={Responsive} target="_blank" rel="noopener noreferrer">
-                                        Páginas Responsivas
+                                        Paginas legais 
                                         </a>
                                     </li>
                                     <li>
