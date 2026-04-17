@@ -23,7 +23,7 @@ export function PageFour() {
                                 <ul>
                                     <li>
                                         <a href={Arquivo} target="_blank" rel="noopener noreferrer">
-                                        Calculadora com temas light e escuro
+                                        Calculadora com temas claro e escuro
                                         </a>
                                     </li>
                                     <li>
