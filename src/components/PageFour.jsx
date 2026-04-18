@@ -23,20 +23,12 @@ export function PageFour() {
                                 <ul>
                                     <li>
                                         <a href={Arquivo} target="_blank" rel="noopener noreferrer">
-<<<<<<< HEAD
                                         Calculadora com temas light e dark
-=======
-                                        Calculadora com temas claro e escuro
->>>>>>> dev
                                         </a>
                                     </li>
                                     <li>
                                         <a href={Responsive} target="_blank" rel="noopener noreferrer">
-<<<<<<< HEAD
                                         Páginas Responsivas
-=======
-                                        Paginas legais 
->>>>>>> dev
                                         </a>
                                     </li>
                                     <li>
